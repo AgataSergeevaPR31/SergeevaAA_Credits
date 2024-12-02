@@ -1,0 +1,32 @@
+﻿
+^contentpage {
+    background-color: lightcyan;
+}
+
+stacklayout {
+    margin: 15px;
+    padding: 10px;
+}
+
+label {
+    color: red;
+}
+
+#header {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.english {
+    font-weight: bold;
+    font-size: large;
+    color: darkblue;
+}
+
+russian {
+    font-size: medium;
+}
+stacklayout label
+{
+    font-family: Verdana;
+}
